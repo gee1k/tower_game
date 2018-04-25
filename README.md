@@ -8,7 +8,6 @@ English | [简体中文](./README.zh-CN.md)
 > a tower building game based on ES6 and Canvas (Tower Bloxx Deluxe Skyscraper)
 
 ## Demo
-<p align="center"><img src="http://obdhoyfg4.bkt.clouddn.com/tower-preview.gif"/></p>
 <h2 align="center"><a href="https://svend.cc/tower_game/index.html">Link to online Demo (Demo Link)</a></h2>
 <h4 align="center">Mobile Devices can scan following QR code:</h4>
 <p align="center">
